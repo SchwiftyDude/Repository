@@ -11,6 +11,8 @@
 		"requiredTech": "Steel",
 		"requiredResource": "Iron",
 		"obsoleteTech": "Gunpowder",
+		"uniques":["Can move after attacking",
+			"[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "clang"
 	}
 	{
@@ -23,6 +25,9 @@
 		"cost": 400,
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Aluminium",
+		"uniques":["Ignores terrain cost",
+			"Can move after attacking",
+			"[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "ratatata"
 	}
 ]
