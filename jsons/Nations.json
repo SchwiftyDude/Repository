@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Burikinia",
+		"leaderName": "Anto Kertajaya",
+		"adjective": ["Burikinians"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
@@ -14,25 +14,25 @@
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Good day to you.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What are you here for?",
+		"hateLetsHearIt": ["Alright, make it quick.","Hurry up, I don't have all day.","What?"],
+		"hateNo": ["Are you making fun of us?","Like hell we will!","Nice joke. Now get out."],
+		"hateYes": ["Oh well.","It's acceptable, I guess..","Well then..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Oh, now you want peace? Very well.",
+		"tradeRequest": "We would like to offer you a trade request..",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [89, 174, 240],
+		"innerColor": [80, 150, 204],
+		"unique": "Azure Magnificence",
+		"cities": ["New Burik City","Tsurumiya","Yunhai","Belovskaya","Yukimura","San Marzano","Grazilensk","Neustadt","Seonghwa",
+			"La Blau","Il Horizonte","Zaryelova","Nevisoara","Zelenice","Karelborg","Tanjung Karang","Nkaluwe","Thariq","Erzerul",
+			"Kunigawa","Galnichorsk","Hakkakuyama","Ciorre","Las Rojas","Szovica","Qinhuang","Friedemark","Hanseong","Trouvisette",
+			"Breguet","Hatsuoka","Cataldi","Mirovsky","Katorizawa","Panembangan"]
 	}
 ]
