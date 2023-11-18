@@ -1,17 +1,28 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Seiran-Tachi",
+		"unitType": "Sword",
+		"uniqueTo": "Burikinia",
+		"replaces": "Longswordsman",
+		"movement": 3,
+		"strength": 25,
+		"cost": 130,
+		"upgradesTo":"Musketman"
+		"requiredTech": "Steel",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "clang"
+	}
+	{
+		"name": "Combat Tank",
+		"unitType": "Armored",
+		"uniqueTo": "Burikinia",
+		"replaces": "Tank",
+		"movement": 3,
+		"strength": 85,
+		"cost": 400,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Aluminium",
+		"attackSound": "ratatata"
 	}
 ]
