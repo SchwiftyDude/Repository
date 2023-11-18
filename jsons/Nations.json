@@ -3,23 +3,23 @@
 		"name": "Burikinia",
 		"leaderName": "Anto Kertajaya",
 		"adjective": ["Burikinians"],
-		"startBias": ["Snow"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Salutations to you, President Anto Kertajaya. The nation of Burikinia has entrusted you to guide its fate upon your hands." This nation, born from the ashes of liberation, is at the forefront of technological innovation. While Burikinia may be a peace-loving country, its strength should not be underestimated.",
+		"startIntroPart2": "Anto Kertajaya, are you up to the task of bringing Burikinia to its glory? We shall find out.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "After much consideration, we have decided that your nation should cease to exist. Prepare for war.",
+		"attacked": "Ah, you want to attack us? Good luck, as I shall destroy you.",
+		"defeated": "You think you're so awesome after you defeated us? Think again. I wish you the worst of luck.",
+		"introduction": "Greetings. I am Anto Kertajaya, President of Burikinia. May our nations prosper together.",
 		
-		"neutralHello": "Good day to you.",
+		"neutralHello": "Hey.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What are you here for?",
+		"hateHello": "What do you want?",
 		"hateLetsHearIt": ["Alright, make it quick.","Hurry up, I don't have all day.","What?"],
 		"hateNo": ["Are you making fun of us?","Like hell we will!","Nice joke. Now get out."],
 		"hateYes": ["Oh well.","It's acceptable, I guess..","Well then..."],
@@ -29,10 +29,12 @@
 
 		"outerColor": [89, 174, 240],
 		"innerColor": [80, 150, 204],
-		"unique": "Azure Magnificence",
+		"uniqueName": "Azure Magnificence",
+		"uniques":["[+3 Science] from every [Luxury resource]","[+1 Production,+2 Culture] from every [Coast]","[+1 Gold] from every [Granary]"],
 		"cities": ["New Burik City","Tsurumiya","Yunhai","Belovskaya","Yukimura","San Marzano","Grazilensk","Neustadt","Seonghwa",
 			"La Blau","Il Horizonte","Zaryelova","Nevisoara","Zelenice","Karelborg","Tanjung Karang","Nkaluwe","Thariq","Erzerul",
 			"Kunigawa","Galnichorsk","Hakkakuyama","Ciorre","Las Rojas","Szovica","Qinhuang","Friedemark","Hanseong","Trouvisette",
 			"Breguet","Hatsuoka","Cataldi","Mirovsky","Katorizawa","Panembangan"]
+		"spyNames": ["Mitsuyama","Lafourier","Witt","Hwang","Takeda","Prasetya","Becker","Salvatore","Tatsuya","Ludovic"]
 	}
 ]
