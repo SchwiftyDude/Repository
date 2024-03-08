@@ -4,10 +4,9 @@
 		"replaces": "Library",
 		"uniqueTo": "Burikinia",
 		"cost": 180,
-		"happiness": 8,
-		"culture": 5,
-		"science": 4,
+		"happiness": 4,
 		"maintenance": 2,
 		"requiredTech": "Writing"
+		"uniques": ["[+1 Happiness] per [1] population [in this city]", "[+1 Culture] per [2] population [in this city]"]
 	}
 ]
