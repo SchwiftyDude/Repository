@@ -6,7 +6,7 @@
 		"cost": 180,
 		"happiness": 8,
 		"culture": 5,
-		"science": 6,
+		"science": 4,
 		"maintenance": 2,
 		"requiredTech": "Writing"
 	}
