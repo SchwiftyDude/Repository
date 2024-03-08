@@ -6,17 +6,17 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Salutations to you, President Anto Kertajaya. The nation of Burikinia has entrusted you to guide its fate upon your hands." This nation, born from the ashes of liberation, is at the forefront of technological innovation. While Burikinia may be a peace-loving country, its strength should not be underestimated.",
+		"startIntroPart1": "Salutations to you, President Anto Kertajaya. The nation of Burikinia has entrusted you to guide its fate upon your hands. This nation, born from the ashes of liberation, is at the forefront of technological innovation. While Burikinia may be a peace-loving country, its strength should not be underestimated.",
 		"startIntroPart2": "Anto Kertajaya, are you up to the task of bringing Burikinia to its glory? We shall find out.",
 		
-		"declaringWar": "After much consideration, we have decided that your nation should cease to exist. Prepare for war.",
-		"attacked": "Ah, you want to attack us? Good luck, as I shall destroy you.",
-		"defeated": "You think you're so awesome after you defeated us? Think again. I wish you the worst of luck.",
+		"declaringWar": "Your nation is filth upon this world. Cease to exist, or Prepare for war.",
+		"attacked": "War? Do you think your nation is mighty enough to challenge a dragon?",
+		"defeated": "Mark my words. Our nation shall rise again, and soon it shall eclipse everything you've ever done.",
 		"introduction": "Greetings. I am Anto Kertajaya, President of Burikinia. May our nations prosper together.",
 		
 		"neutralHello": "Hey.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["We refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want?",
@@ -30,11 +30,11 @@
 		"outerColor": [89, 174, 240],
 		"innerColor": [80, 150, 204],
 		"uniqueName": "Azure Magnificence",
-		"uniques":["[+3 Science] from every [Luxury resource]","[+1 Production,+2 Culture] from every [Coast]","[+1 Gold] from every [Granary]"],
+		"uniques":["[+2 Science] from every [Luxury resource]","[+1 Production,+2 Culture] from every [Coast]","[+1 Gold] from every [Granary]"],
 		"cities": ["New Burik City","Tsurumiya","Yunhai","Belovskaya","Yukimura","San Marzano","Grazilensk","Neustadt","Seonghwa",
 			"La Blau","Il Horizonte","Zaryelova","Nevisoara","Zelenice","Karelborg","Tanjung Karang","Nkaluwe","Thariq","Erzerul",
 			"Kunigawa","Galnichorsk","Hakkakuyama","Ciorre","Las Rojas","Szovica","Qinhuang","Friedemark","Hanseong","Trouvisette",
 			"Breguet","Hatsuoka","Cataldi","Mirovsky","Katorizawa","Panembangan"]
-		"spyNames": ["Mitsuyama","Lafourier","Witt","Hwang","Takeda","Prasetya","Becker","Salvatore","Tatsuya","Ludovic"]
+		"spyNames": ["Mitsuyama","Lafourier","Witt","Hwang","Takeda","Prasetya","Becker","Salvatore","Tatsuya","Wilford"]
 	}
 ]
