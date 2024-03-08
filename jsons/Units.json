@@ -15,19 +15,4 @@
 			"[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "clang"
 	}
-	{
-		"name": "Combat Tank",
-		"unitType": "Armored",
-		"uniqueTo": "Burikinia",
-		"replaces": "Tank",
-		"movement": 3,
-		"strength": 85,
-		"cost": 400,
-		"requiredTech": "Combined Arms",
-		"requiredResource": "Aluminium",
-		"uniques":["Ignores terrain cost",
-			"Can move after attacking",
-			"[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "ratatata"
-	}
 ]
