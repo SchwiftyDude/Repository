@@ -3,7 +3,8 @@
 		"name": "Repository",
 		"replaces": "Library",
 		"uniqueTo": "Burikinia",
-		"cost": 180,
+		"cost": 60,
+		"percentStatBonus": {"science": 10},
 		"happiness": 4,
 		"maintenance": 2,
 		"requiredTech": "Writing"
